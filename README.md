@@ -1,4 +1,4 @@
-                                                           Lost & Found System for IIIDTMJ
+                                                Lost & Found System for IIIDTMJ
 
 1.Introduction: - Lost and Found System of IIITDMJ is a web-based application where a user is provided with an interface for adding a lost or found item, listing and searching of the properties in a database with admin panel. It is built with PHP, HTML and CSS.
 
